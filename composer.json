@@ -1,0 +1,12 @@
+{
+    "name": "julho/buscador-cursos",
+    "description": "Buscador de cursos na alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Julho Michalak",
+            "email": "julhomichalak@gmail.com"
+        }
+    ],
+    "require": {}
+}
