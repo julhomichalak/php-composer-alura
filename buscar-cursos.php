@@ -9,7 +9,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
 $client = new Client([
     'base_uri' => 'https://www.alura.com.br/',
-    'verify' => false
+    'verify' => false //Não faz verificação de domínio
 ]);
 $crawler = new Crawler();
 
